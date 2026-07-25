@@ -41,8 +41,8 @@ Requires [`uv`](https://docs.astral.sh/uv/). Dependencies are pinned deliberatel
 that scikit-learn version's compiled wheels).
 
 ```bash
-git clone <your-repo-url>
-cd income_classification_capstone
+git clone https://github.com/elizalamarr/income-classification-capstone.git
+cd income-classification-capstone
 uv sync
 ```
 
